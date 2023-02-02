@@ -6,5 +6,5 @@ São realizadas verificações simples no campo CEP:
 - Apenas números.
 - Limitação de 8 caracteres.
 
-Preview
-https://codepen.io/matheusgesser/pen/MWBoPvN
+# Preview/Demo
+https://gessercep.netlify.app/
