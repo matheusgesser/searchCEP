@@ -8,7 +8,7 @@
 
 <img src="https://i.imgur.com/FOB1mTO.png" alt="Demo image">
 
-> Simple minigame, my first JavaScript project.
+> Search any CEP (brazilian zip code), API returns the location.
 
 **Try it: <a href="https://gessercep.netlify.app/
 " target='_blank'>gessercep.netlify.app</a>**
