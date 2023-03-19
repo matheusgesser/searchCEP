@@ -1,10 +1,18 @@
-# searchCEP
+# Search CEP 🔎
 
-Interface que recupera o valor informado no campo CEP e faz uma requisição à API externa, retornando o endereço correspondente.
+![GitHub repo size](https://img.shields.io/github/repo-size/matheusgesser/searchCEP?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/matheusgesser/searchCEP?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/matheusgesser/searchCEP?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/matheusgesser/searchCEP?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/matheusgesser/searchCEP?style=for-the-badge)
 
-São realizadas verificações simples no campo CEP:
-- Apenas números.
-- Limitação de 8 caracteres.
+<img src="https://i.imgur.com/FOB1mTO.png" alt="Demo image">
 
-# Preview/Demo
-https://gessercep.netlify.app/
+> Simple minigame, my first JavaScript project.
+
+**Try it: <a href="https://gessercep.netlify.app/
+" target='_blank'>gessercep.netlify.app</a>**
+
+## 💻 **Technologies**
+
+<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/><img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' /><img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' />
