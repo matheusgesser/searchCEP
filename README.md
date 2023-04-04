@@ -10,8 +10,9 @@
 
 > Search any CEP (brazilian zip code), API returns the location.
 
-**Try it: <a href="https://gessercep.netlify.app/
-" target='_blank'>gessercep.netlify.app</a>**
+## 🔴 **Live Version**
+
+**<a href="https://gessercep.netlify.app/" target='_blank'>gessercep.netlify.app</a>**
 
 ## 💻 **Technologies**
 
